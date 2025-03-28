@@ -10,4 +10,5 @@ Estoy en mi tercer año de facultad, me gustan los juegos, las series y salir co
 * No programe mucho pero las veces que lo hice me gusto, asi que creo que me va a gustar la materia
 
 # Mi foto
+![yo](https://github.com/pdepjm/2025-tp0-presentacion-fporzio0/blob/main/fotoPresentacion.jpg)
 
