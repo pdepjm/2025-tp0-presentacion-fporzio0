@@ -1,7 +1,6 @@
 # Datos
 
 Holaa, mi nombre es Francisco Porzio, tengo 19 años y mi legajo es 214.023-8.
-Estoy en mi tercer año de facultad, me gustan los juegos, las series y salir con mis amigos
 
 # Cosas sobre mi
 
